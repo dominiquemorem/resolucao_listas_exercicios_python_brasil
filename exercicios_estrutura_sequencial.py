@@ -7,17 +7,17 @@
 
 # QUESTÃO 1:
 
-# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-# print("Alô, Mundo!")
+print("Alô, Mundo!")
 
 #--------------------------------------------------------------//--------------------------------------------------------------
 
 # QUESTÃO 2:
 
-# Faça um Programa que peça um número e então mostre a mensagem "O número informado foi [número]".
-# numero = int(input("Digite um número: "))
-# print("\nO número informado foi {}.".format(numero))
+Faça um Programa que peça um número e então mostre a mensagem "O número informado foi [número]".
+numero = int(input("Digite um número: "))
+print("\nO número informado foi {}.".format(numero))
 
 
 #--------------------------------------------------------------//--------------------------------------------------------------
@@ -185,16 +185,16 @@
 
 # QUESTÃO 14:
 
-# João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
+João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
 
-# peso_peixes = float(input("Digite quantos kg de peixe você pescou hoje: "))
-# excesso = 51
-# multa = 4.00 * (peso_peixes - 50)
+peso_peixes = float(input("Digite quantos kg de peixe você pescou hoje: "))
+excesso = 51
+multa = 4.00 * (peso_peixes - 50)
 
-# if peso_peixes >= excesso:
-#     print("\nEXCESSO DETECTADO:\nVocê deverá pagar:\nR$ {:.2f} de multa.".format(multa))
-# else:
-#     print("\nSEM EXCESSO: Não há multas a pagar.")
+if peso_peixes >= excesso:
+     print("\nEXCESSO DETECTADO:\nVocê deverá pagar:\nR$ {:.2f} de multa.".format(multa))
+else:
+     print("\nSEM EXCESSO: Não há multas a pagar.")
 
 #--------------------------------------------------------------//--------------------------------------------------------------
 
