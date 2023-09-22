@@ -12,12 +12,11 @@
 # print("Alô, Mundo!")
 
 #--------------------------------------------------------------//--------------------------------------------------------------
+
 # QUESTÃO 2:
 
 # Faça um Programa que peça um número e então mostre a mensagem "O número informado foi [número]".
-
 # numero = int(input("Digite um número: "))
-
 # print("\nO número informado foi {}.".format(numero))
 
 
@@ -54,11 +53,9 @@
 # QUESTÃO 5:
 
 # Faça um Programa que converta metros para centímetros.
-
 #OBSERVAÇÃO: Levando-se em consideração que 1 metro equivale a 100 centímetros.
 
 # metros = float(input("Digite quantos metros deseja converter em centímetros: "))
-
 # centimetros = metros * 100
 
 # print("{:.2f} metros = {:.2f} centímetros".format(metros, centimetros))
@@ -70,7 +67,6 @@
 # QUESTÃO 6:
 
 # Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
-
 #OBSERVAÇÃO: A área de um círculo é dada pela seguinte fórmula: A = π * r²
 #Onde:
 # A - É a área,
@@ -121,7 +117,6 @@
 
 #--------------------------------------------------------------//--------------------------------------------------------------
 
-
 # QUESTÃO 10:
 
 # Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
@@ -150,7 +145,6 @@
 
 # print("Os números escolhido por você foram, respectivamente: \"{}\", \"{}\" e \"{}\".\nO produto do dobro do primeiro número com metade do segundo é: {:.2f}\nA soma do triplo do primeiro número com o terceiro resulta em: {:.2f}.\nO terceiro número elevado ao cubo resulta em: {:.2f}".format(numero1, numero2, num_real, produto_dobro, soma, elevado_cubo))
 
-
 #--------------------------------------------------------------//--------------------------------------------------------------
 
 # QUESTÃO 12:
@@ -167,7 +161,6 @@
 
 
 # QUESTÃO 13:
-
 
 # Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 # Para homens: (72.7*h) - 58
