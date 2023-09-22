@@ -1,7 +1,7 @@
 # EXERCÍCIOS RESOLVIDOS DAS LISTAS DO SITE - PYTHON BRASIL
 
 #Resolvidos por: Dominique Morem.
-#Em: 21 setembro 2023.
+#Em: 22 setembro 2023.
 
 #--------------------------------------------------------------//--------------------------------------------------------------
 
